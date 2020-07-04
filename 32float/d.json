@@ -1,0 +1,88 @@
+{
+    "schedule": 8,
+    "totalPaymentsAmount": 27979.00,
+    "totalPayments": 8,
+    "totalInterest": 0.00,
+    "stateFee": 0.00,
+    "payments": [
+        {
+            "principal": 3497.39,
+            "paymentNumber": 1,
+            "interest": 0.00,
+            "dueDate": "2020-08-01",
+            "balance": 24481.61,
+            "amount": 3497.39
+        },
+        {
+            "principal": 3497.39,
+            "paymentNumber": 2,
+            "interest": 0.00,
+            "dueDate": "2020-09-01",
+            "balance": 20984.22,
+            "amount": 3497.39
+        },
+        {
+            "principal": 3497.39,
+            "paymentNumber": 3,
+            "interest": 0.00,
+            "dueDate": "2020-10-01",
+            "balance": 17486.83,
+            "amount": 3497.39
+        },
+        {
+            "principal": 3497.39,
+            "paymentNumber": 4,
+            "interest": 0.00,
+            "dueDate": "2020-11-01",
+            "balance": 13989.44,
+            "amount": 3497.39
+        },
+        {
+            "principal": 3497.39,
+            "paymentNumber": 5,
+            "interest": 0.00,
+            "dueDate": "2020-12-01",
+            "balance": 10492.05,
+            "amount": 3497.39
+        },
+        {
+            "principal": 3497.39,
+            "paymentNumber": 6,
+            "interest": 0.00,
+            "dueDate": "2021-01-01",
+            "balance": 6994.66,
+            "amount": 3497.39
+        },
+        {
+            "principal": 3497.39,
+            "paymentNumber": 7,
+            "interest": 0.00,
+            "dueDate": "2021-02-01",
+            "balance": 3497.27,
+            "amount": 3497.39
+        },
+        {
+            "principal": 3497.27,
+            "paymentNumber": 8,
+            "interest": 0.0000,
+            "dueDate": "2021-03-01",
+            "balance": 0.0,
+            "amount": 3497.2700
+        }
+    ],
+    "loanProceeds": 19865.09,
+    "loanId": "10004919",
+    "loanAmountFinanced": 27979.00,
+    "loanAmount": 27979.00,
+    "lastPaymentOnDateStr": "03/01/2021",
+    "lastPaymentOnDate": "2021-03-01",
+    "interestRate": 0.00,
+    "interestAccrualMethodDisplay": "30/360",
+    "interestAccrualMethod": "30/360",
+    "hasErrors": false,
+    "fundingDateStr": "06/25/2020",
+    "fundingDate": "2020-06-25",
+    "frequency": "Monthly",
+    "firstPaymentOnDate": "2020-08-01",
+    "errors": []
+}

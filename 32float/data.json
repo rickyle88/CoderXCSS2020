@@ -1,0 +1,627 @@
+{
+    "loanId": "10004757",
+    "schedule": 0,
+    "term": 77,
+    "loanAmount": 2500,
+    "frequency": "Bi-Weekly",
+    "interestRate": 0.21,
+    "fundDate": "2020-06-13",
+    "payments": [
+        {
+            "paymentNumber": 1,
+            "amount": 202.26,
+            "principal": 0.71,
+            "interest": 201.55,
+            "balance": "2,508.39",
+            "dueDate": "2020-06-27"
+        },
+        {
+            "paymentNumber": 2,
+            "amount": 202.26,
+            "principal": 0.77,
+            "interest": 201.49,
+            "balance": "2,507.62",
+            "dueDate": "2020-07-11"
+        },
+        {
+            "paymentNumber": 3,
+            "amount": 202.26,
+            "principal": 0.83,
+            "interest": 201.43,
+            "balance": "2,506.79",
+            "dueDate": "2020-07-25"
+        },
+        {
+            "paymentNumber": 4,
+            "amount": 202.26,
+            "principal": 0.89,
+            "interest": 201.37,
+            "balance": "2,505.90",
+            "dueDate": "2020-08-08"
+        },
+        {
+            "paymentNumber": 5,
+            "amount": 202.26,
+            "principal": 0.97,
+            "interest": 201.29,
+            "balance": "2,504.93",
+            "dueDate": "2020-08-22"
+        },
+        {
+            "paymentNumber": 6,
+            "amount": 202.26,
+            "principal": 1.04,
+            "interest": 201.22,
+            "balance": "2,503.89",
+            "dueDate": "2020-09-05"
+        },
+        {
+            "paymentNumber": 7,
+            "amount": 202.26,
+            "principal": 1.13,
+            "interest": 201.13,
+            "balance": "2,502.76",
+            "dueDate": "2020-09-19"
+        },
+        {
+            "paymentNumber": 8,
+            "amount": 202.26,
+            "principal": 1.22,
+            "interest": 201.04,
+            "balance": "2,501.54",
+            "dueDate": "2020-10-03"
+        },
+        {
+            "paymentNumber": 9,
+            "amount": 202.26,
+            "principal": 1.32,
+            "interest": 200.94,
+            "balance": "2,500.22",
+            "dueDate": "2020-10-17"
+        },
+        {
+            "paymentNumber": 10,
+            "amount": 202.26,
+            "principal": 1.42,
+            "interest": 200.84,
+            "balance": "2,498.80",
+            "dueDate": "2020-10-31"
+        },
+        {
+            "paymentNumber": 11,
+            "amount": 202.26,
+            "principal": 1.54,
+            "interest": 200.72,
+            "balance": "2,497.26",
+            "dueDate": "2020-11-14"
+        },
+        {
+            "paymentNumber": 12,
+            "amount": 202.26,
+            "principal": 1.66,
+            "interest": 200.6,
+            "balance": "2,495.60",
+            "dueDate": "2020-11-28"
+        },
+        {
+            "paymentNumber": 13,
+            "amount": 202.26,
+            "principal": 1.79,
+            "interest": 200.47,
+            "balance": "2,493.81",
+            "dueDate": "2020-12-12"
+        },
+        {
+            "paymentNumber": 14,
+            "amount": 202.26,
+            "principal": 1.94,
+            "interest": 200.32,
+            "balance": "2,491.87",
+            "dueDate": "2020-12-26"
+        },
+        {
+            "paymentNumber": 15,
+            "amount": 202.26,
+            "principal": 1.78,
+            "interest": 200.48,
+            "balance": "2,490.09",
+            "dueDate": "2021-01-09"
+        },
+        {
+            "paymentNumber": 16,
+            "amount": 202.26,
+            "principal": 1.69,
+            "interest": 200.57,
+            "balance": "2,488.40",
+            "dueDate": "2021-01-23"
+        },
+        {
+            "paymentNumber": 17,
+            "amount": 202.26,
+            "principal": 1.82,
+            "interest": 200.44,
+            "balance": "2,486.58",
+            "dueDate": "2021-02-06"
+        },
+        {
+            "paymentNumber": 18,
+            "amount": 202.26,
+            "principal": 1.97,
+            "interest": 200.29,
+            "balance": "2,484.61",
+            "dueDate": "2021-02-20"
+        },
+        {
+            "paymentNumber": 19,
+            "amount": 202.26,
+            "principal": 2.13,
+            "interest": 200.13,
+            "balance": "2,482.48",
+            "dueDate": "2021-03-06"
+        },
+        {
+            "paymentNumber": 20,
+            "amount": 202.26,
+            "principal": 2.3,
+            "interest": 199.96,
+            "balance": "2,480.18",
+            "dueDate": "2021-03-20"
+        },
+        {
+            "paymentNumber": 21,
+            "amount": 202.26,
+            "principal": 2.49,
+            "interest": 199.77,
+            "balance": "2,477.69",
+            "dueDate": "2021-04-03"
+        },
+        {
+            "paymentNumber": 22,
+            "amount": 202.26,
+            "principal": 2.69,
+            "interest": 199.57,
+            "balance": "2,475",
+            "dueDate": "2021-04-17"
+        },
+        {
+            "paymentNumber": 23,
+            "amount": 202.26,
+            "principal": 2.9,
+            "interest": 199.36,
+            "balance": "2,472.10",
+            "dueDate": "2021-05-01"
+        },
+        {
+            "paymentNumber": 24,
+            "amount": 202.26,
+            "principal": 3.14,
+            "interest": 199.12,
+            "balance": "2,468.96",
+            "dueDate": "2021-05-15"
+        },
+        {
+            "paymentNumber": 25,
+            "amount": 202.26,
+            "principal": 3.39,
+            "interest": 198.87,
+            "balance": "2,465.57",
+            "dueDate": "2021-05-29"
+        },
+        {
+            "paymentNumber": 26,
+            "amount": 202.26,
+            "principal": 3.66,
+            "interest": 198.6,
+            "balance": "2,461.91",
+            "dueDate": "2021-06-12"
+        },
+        {
+            "paymentNumber": 27,
+            "amount": 202.26,
+            "principal": 3.96,
+            "interest": 198.3,
+            "balance": "2,457.95",
+            "dueDate": "2021-06-26"
+        },
+        {
+            "paymentNumber": 28,
+            "amount": 202.26,
+            "principal": 4.28,
+            "interest": 197.98,
+            "balance": "2,453.67",
+            "dueDate": "2021-07-10"
+        },
+        {
+            "paymentNumber": 29,
+            "amount": 202.26,
+            "principal": 4.62,
+            "interest": 197.64,
+            "balance": "2,449.05",
+            "dueDate": "2021-07-24"
+        },
+        {
+            "paymentNumber": 30,
+            "amount": 202.26,
+            "principal": 4.99,
+            "interest": 197.27,
+            "balance": "2,444.06",
+            "dueDate": "2021-08-07"
+        },
+        {
+            "paymentNumber": 31,
+            "amount": 202.26,
+            "principal": 5.4,
+            "interest": 196.86,
+            "balance": "2,438.66",
+            "dueDate": "2021-08-21"
+        },
+        {
+            "paymentNumber": 32,
+            "amount": 202.26,
+            "principal": 5.83,
+            "interest": 196.43,
+            "balance": "2,432.83",
+            "dueDate": "2021-09-04"
+        },
+        {
+            "paymentNumber": 33,
+            "amount": 202.26,
+            "principal": 6.3,
+            "interest": 195.96,
+            "balance": "2,426.53",
+            "dueDate": "2021-09-18"
+        },
+        {
+            "paymentNumber": 34,
+            "amount": 202.26,
+            "principal": 6.81,
+            "interest": 195.45,
+            "balance": "2,419.72",
+            "dueDate": "2021-10-02"
+        },
+        {
+            "paymentNumber": 35,
+            "amount": 202.26,
+            "principal": 7.36,
+            "interest": 194.9,
+            "balance": "2,412.36",
+            "dueDate": "2021-10-16"
+        },
+        {
+            "paymentNumber": 36,
+            "amount": 202.26,
+            "principal": 7.95,
+            "interest": 194.31,
+            "balance": "2,404.41",
+            "dueDate": "2021-10-30"
+        },
+        {
+            "paymentNumber": 37,
+            "amount": 202.26,
+            "principal": 8.59,
+            "interest": 193.67,
+            "balance": "2,395.82",
+            "dueDate": "2021-11-13"
+        },
+        {
+            "paymentNumber": 38,
+            "amount": 202.26,
+            "principal": 9.28,
+            "interest": 192.98,
+            "balance": "2,386.54",
+            "dueDate": "2021-11-27"
+        },
+        {
+            "paymentNumber": 39,
+            "amount": 202.26,
+            "principal": 10.03,
+            "interest": 192.23,
+            "balance": "2,376.51",
+            "dueDate": "2021-12-11"
+        },
+        {
+            "paymentNumber": 40,
+            "amount": 202.26,
+            "principal": 10.84,
+            "interest": 191.42,
+            "balance": "2,365.67",
+            "dueDate": "2021-12-25"
+        },
+        {
+            "paymentNumber": 41,
+            "amount": 202.26,
+            "principal": 11.71,
+            "interest": 190.55,
+            "balance": "2,353.96",
+            "dueDate": "2022-01-08"
+        },
+        {
+            "paymentNumber": 42,
+            "amount": 202.26,
+            "principal": 12.65,
+            "interest": 189.61,
+            "balance": "2,341.31",
+            "dueDate": "2022-01-22"
+        },
+        {
+            "paymentNumber": 43,
+            "amount": 202.26,
+            "principal": 13.67,
+            "interest": 188.59,
+            "balance": "2,327.64",
+            "dueDate": "2022-02-05"
+        },
+        {
+            "paymentNumber": 44,
+            "amount": 202.26,
+            "principal": 14.77,
+            "interest": 187.49,
+            "balance": "2,312.87",
+            "dueDate": "2022-02-19"
+        },
+        {
+            "paymentNumber": 45,
+            "amount": 202.26,
+            "principal": 15.96,
+            "interest": 186.3,
+            "balance": "2,296.91",
+            "dueDate": "2022-03-05"
+        },
+        {
+            "paymentNumber": 46,
+            "amount": 202.26,
+            "principal": 17.25,
+            "interest": 185.01,
+            "balance": "2,279.66",
+            "dueDate": "2022-03-19"
+        },
+        {
+            "paymentNumber": 47,
+            "amount": 202.26,
+            "principal": 18.64,
+            "interest": 183.62,
+            "balance": "2,261.02",
+            "dueDate": "2022-04-02"
+        },
+        {
+            "paymentNumber": 48,
+            "amount": 202.26,
+            "principal": 20.14,
+            "interest": 182.12,
+            "balance": "2,240.88",
+            "dueDate": "2022-04-16"
+        },
+        {
+            "paymentNumber": 49,
+            "amount": 202.26,
+            "principal": 21.76,
+            "interest": 180.5,
+            "balance": "2,219.12",
+            "dueDate": "2022-04-30"
+        },
+        {
+            "paymentNumber": 50,
+            "amount": 202.26,
+            "principal": 23.51,
+            "interest": 178.75,
+            "balance": "2,195.61",
+            "dueDate": "2022-05-14"
+        },
+        {
+            "paymentNumber": 51,
+            "amount": 202.26,
+            "principal": 25.41,
+            "interest": 176.85,
+            "balance": "2,170.20",
+            "dueDate": "2022-05-28"
+        },
+        {
+            "paymentNumber": 52,
+            "amount": 202.26,
+            "principal": 27.45,
+            "interest": 174.81,
+            "balance": "2,142.75",
+            "dueDate": "2022-06-11"
+        },
+        {
+            "paymentNumber": 53,
+            "amount": 202.26,
+            "principal": 29.67,
+            "interest": 172.59,
+            "balance": "2,113.08",
+            "dueDate": "2022-06-25"
+        },
+        {
+            "paymentNumber": 54,
+            "amount": 202.26,
+            "principal": 32.06,
+            "interest": 170.2,
+            "balance": "2,081.02",
+            "dueDate": "2022-07-09"
+        },
+        {
+            "paymentNumber": 55,
+            "amount": 202.26,
+            "principal": 34.64,
+            "interest": 167.62,
+            "balance": "2,046.38",
+            "dueDate": "2022-07-23"
+        },
+        {
+            "paymentNumber": 56,
+            "amount": 202.26,
+            "principal": 37.43,
+            "interest": 164.83,
+            "balance": "2,008.95",
+            "dueDate": "2022-08-06"
+        },
+        {
+            "paymentNumber": 57,
+            "amount": 202.26,
+            "principal": 40.44,
+            "interest": 161.82,
+            "balance": "1,968.51",
+            "dueDate": "2022-08-20"
+        },
+        {
+            "paymentNumber": 58,
+            "amount": 202.26,
+            "principal": 43.7,
+            "interest": 158.56,
+            "balance": "1,924.81",
+            "dueDate": "2022-09-03"
+        },
+        {
+            "paymentNumber": 59,
+            "amount": 202.26,
+            "principal": 47.22,
+            "interest": 155.04,
+            "balance": "1,877.59",
+            "dueDate": "2022-09-17"
+        },
+        {
+            "paymentNumber": 60,
+            "amount": 202.26,
+            "principal": 51.02,
+            "interest": 151.24,
+            "balance": "1,826.57",
+            "dueDate": "2022-10-01"
+        },
+        {
+            "paymentNumber": 61,
+            "amount": 202.26,
+            "principal": 55.13,
+            "interest": 147.13,
+            "balance": "1,771.44",
+            "dueDate": "2022-10-15"
+        },
+        {
+            "paymentNumber": 62,
+            "amount": 202.26,
+            "principal": 59.57,
+            "interest": 142.69,
+            "balance": "1,711.87",
+            "dueDate": "2022-10-29"
+        },
+        {
+            "paymentNumber": 63,
+            "amount": 202.26,
+            "principal": 64.37,
+            "interest": 137.89,
+            "balance": "1,647.50",
+            "dueDate": "2022-11-12"
+        },
+        {
+            "paymentNumber": 64,
+            "amount": 202.26,
+            "principal": 69.56,
+            "interest": 132.7,
+            "balance": "1,577.94",
+            "dueDate": "2022-11-26"
+        },
+        {
+            "paymentNumber": 65,
+            "amount": 202.26,
+            "principal": 75.16,
+            "interest": 127.1,
+            "balance": "1,502.78",
+            "dueDate": "2022-12-10"
+        },
+        {
+            "paymentNumber": 66,
+            "amount": 202.26,
+            "principal": 81.21,
+            "interest": 121.05,
+            "balance": "1,421.57",
+            "dueDate": "2022-12-24"
+        },
+        {
+            "paymentNumber": 67,
+            "amount": 202.26,
+            "principal": 87.76,
+            "interest": 114.5,
+            "balance": "1,333.81",
+            "dueDate": "2023-01-07"
+        },
+        {
+            "paymentNumber": 68,
+            "amount": 202.26,
+            "principal": 94.82,
+            "interest": 107.44,
+            "balance": "1,238.99",
+            "dueDate": "2023-01-21"
+        },
+        {
+            "paymentNumber": 69,
+            "amount": 202.26,
+            "principal": 102.46,
+            "interest": 99.8,
+            "balance": "1,136.53",
+            "dueDate": "2023-02-04"
+        },
+        {
+            "paymentNumber": 70,
+            "amount": 202.26,
+            "principal": 110.71,
+            "interest": 91.55,
+            "balance": "1,025.82",
+            "dueDate": "2023-02-18"
+        },
+        {
+            "paymentNumber": 71,
+            "amount": 202.26,
+            "principal": 119.63,
+            "interest": 82.63,
+            "balance": "906.19",
+            "dueDate": "2023-03-04"
+        },
+        {
+            "paymentNumber": 72,
+            "amount": 202.26,
+            "principal": 129.27,
+            "interest": 72.99,
+            "balance": "776.92",
+            "dueDate": "2023-03-18"
+        },
+        {
+            "paymentNumber": 73,
+            "amount": 202.26,
+            "principal": 139.68,
+            "interest": 62.58,
+            "balance": "637.24",
+            "dueDate": "2023-04-01"
+        },
+        {
+            "paymentNumber": 74,
+            "amount": 202.26,
+            "principal": 150.93,
+            "interest": 51.33,
+            "balance": "486.31",
+            "dueDate": "2023-04-15"
+        },
+        {
+            "paymentNumber": 75,
+            "amount": 202.26,
+            "principal": 163.09,
+            "interest": 39.17,
+            "balance": "323.22",
+            "dueDate": "2023-04-29"
+        },
+        {
+            "paymentNumber": 76,
+            "amount": 202.26,
+            "principal": 176.23,
+            "interest": 26.03,
+            "balance": "146.99",
+            "dueDate": "2023-05-13"
+        },
+        {
+            "paymentNumber": 77,
+            "amount": 158.83,
+            "principal": 146.99,
+            "interest": 11.84,
+            "balance": "0",
+            "dueDate": "2023-05-27"
+        }
+    ]
+}

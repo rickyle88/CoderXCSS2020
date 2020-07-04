@@ -1,0 +1,12 @@
+/* 
+    CSS Combinators
+
+    descedant selector          space
+    child selector              >
+    adjacent sibling selector   +
+    general sibling selector    ~
+*/
+
+.list-2 .item-1 ~ .item{
+    color: red;
+}

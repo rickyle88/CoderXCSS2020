@@ -1,0 +1,10 @@
+.list-item{
+    color:red;
+    font-weight: bold;
+    padding: 16px;
+    margin-bottom: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: cadetblue;
+    border-radius: 4px;
+}

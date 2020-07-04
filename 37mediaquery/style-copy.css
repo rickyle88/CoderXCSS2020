@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.item{
+    border: 1px solid #888;
+    background-color: #DDD;
+    padding: 50px;
+    text-align: center;
+}
+
+/* Mobile first */
+
+@media (min-width: 600px){
+    .container{
+        flex-direction: row;
+    }
+
+    /* Fill in empty space */
+    .item{
+        flex-grow: 1;
+    }
+}

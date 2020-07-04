@@ -1,0 +1,9 @@
+/* CSS Specificity */
+
+*{
+    color: red;
+}
+
+p{
+    color: green;
+}

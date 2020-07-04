@@ -1,0 +1,29 @@
+
+
+*{
+    /* Padding will change parent's size */
+    box-sizing: border-box;
+}
+
+.album-cover{
+    width: 128px;
+    height: 128px;
+    /* background-color: #DDD; */
+    background-image: url('https://via.placeholder.com/128x200');
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    color: #FFF;
+    font-size: 20px;
+}
+
+.album-cover .overlay{
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+    background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%, rgba(0,0,0,0) 100%);
+    padding: 8px;
+    
+}
+

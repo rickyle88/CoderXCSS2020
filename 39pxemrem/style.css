@@ -1,0 +1,12 @@
+.px{
+    font-size: 32px;
+}
+
+.em{
+    /* 1em = 16px => = parent's font size*/
+    font-size: 2em;
+}
+
+.rem{
+    font-size: 2rem;
+}
